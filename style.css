@@ -43,6 +43,7 @@ body {
 
 #details {
   display: block;
+  width: 25%;
 }
 
 #details div {
